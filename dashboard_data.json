@@ -1,0 +1,157 @@
+{
+  "topDescriptors": [
+    {
+      "name": "sweet",
+      "value": 172
+    },
+    {
+      "name": "chocolate",
+      "value": 89
+    },
+    {
+      "name": "crisp",
+      "value": 85
+    },
+    {
+      "name": "cocoa",
+      "value": 79
+    },
+    {
+      "name": "smooth",
+      "value": 75
+    },
+    {
+      "name": "rich",
+      "value": 72
+    },
+    {
+      "name": "bright",
+      "value": 71
+    },
+    {
+      "name": "floral",
+      "value": 64
+    }
+  ],
+  "sentimentByOrigin": [
+    {
+      "name": "Sidamo growing region, southern Ethiopia",
+      "reviewCount": 15,
+      "averageSentiment": 0.83,
+      "belowMedian": 0.53,
+      "aboveMedian": 0.47,
+      "bottom25": 0.33,
+      "midLower25": 0.2,
+      "midUpper25": 0.2,
+      "top25": 0.27
+    },
+    {
+      "name": "Guji Zone, Oromia Region, southern Ethiopia",
+      "reviewCount": 12,
+      "averageSentiment": 0.87,
+      "belowMedian": 0.42,
+      "aboveMedian": 0.58,
+      "bottom25": 0.42,
+      "midLower25": 0.0,
+      "midUpper25": 0.33,
+      "top25": 0.25
+    },
+    {
+      "name": "Ethiopia",
+      "reviewCount": 10,
+      "averageSentiment": 0.86,
+      "belowMedian": 0.8,
+      "aboveMedian": 0.2,
+      "bottom25": 0.4,
+      "midLower25": 0.4,
+      "midUpper25": 0.2,
+      "top25": 0.0
+    },
+    {
+      "name": "Guji Zone, Oromia region, southern Ethiopia",
+      "reviewCount": 7,
+      "averageSentiment": 0.93,
+      "belowMedian": 0.29,
+      "aboveMedian": 0.71,
+      "bottom25": 0.14,
+      "midLower25": 0.14,
+      "midUpper25": 0.14,
+      "top25": 0.57
+    },
+    {
+      "name": "Tarrazu, Costa Rica",
+      "reviewCount": 6,
+      "averageSentiment": 0.93,
+      "belowMedian": 0.0,
+      "aboveMedian": 1.0,
+      "bottom25": 0.0,
+      "midLower25": 0.0,
+      "midUpper25": 1.0,
+      "top25": 0.0
+    }
+  ],
+  "sentimentDistribution": [
+    {
+      "name": "Very Negative (-1.0 to -0.5)",
+      "count": 1
+    },
+    {
+      "name": "Negative (-0.5 to 0)",
+      "count": 3
+    },
+    {
+      "name": "Neutral (0 to 0.5)",
+      "count": 5
+    },
+    {
+      "name": "Positive (0.5 to 0.75)",
+      "count": 12
+    },
+    {
+      "name": "Very Positive (0.75 to 0.85)",
+      "count": 25
+    },
+    {
+      "name": "Excellent (0.85 to 0.95)",
+      "count": 93
+    },
+    {
+      "name": "Outstanding (0.95 to 1.0)",
+      "count": 65
+    }
+  ],
+  "radarData": [
+    {
+      "descriptor": "sweet",
+      "frequency": 172
+    },
+    {
+      "descriptor": "chocolate",
+      "frequency": 89
+    },
+    {
+      "descriptor": "crisp",
+      "frequency": 85
+    },
+    {
+      "descriptor": "cocoa",
+      "frequency": 79
+    },
+    {
+      "descriptor": "smooth",
+      "frequency": 75
+    },
+    {
+      "descriptor": "rich",
+      "frequency": 72
+    },
+    {
+      "descriptor": "bright",
+      "frequency": 71
+    },
+    {
+      "descriptor": "floral",
+      "frequency": 64
+    }
+  ]
+}
